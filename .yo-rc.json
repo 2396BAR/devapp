@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "nc.devapp",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "devapp",
+    "packageName": "nc.devapp",
+    "packageFolder": "nc/devapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDcyYmRkZjRiYjFhZTg3NjFhNzIyYTY0YTUxOGUwMzc2OTg1ZmY3NWM1ZTc5OTgzNjgxYTk5NDZkMmM5YmZiNmYxOTlhMDgxYzA5OWNlZjBhNjc4MDk1ZGM2OGIxZTY0NzNjNGI3MGZjZWJhOTY4NDljMjYzODZjZDlmZTE1NmM=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr"],
+    "blueprints": []
+  }
+}
