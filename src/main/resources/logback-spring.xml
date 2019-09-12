@@ -23,7 +23,7 @@
     </appender>
 
     <root level="${logging.level.root}">
-        <appender-ref ref="ASYNC"/>
+        <appender-ref ref= "ASYNC"/>
     </root>
 -->
 
