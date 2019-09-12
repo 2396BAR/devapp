@@ -180,7 +180,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [node.js]: https://nodejs.org/
 [yarn]: https://yarnpkg.org/
 [webpack]: https://webpack.github.io/
-[angular cli]: https://cli.angular.io/
+[angular client]: https://cli.angular.io/
 [browsersync]: http://www.browsersync.io/
 [jest]: https://facebook.github.io/jest/
 [jasmine]: http://jasmine.github.io/2.0/introduction.html
